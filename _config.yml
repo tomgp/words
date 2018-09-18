@@ -1,2 +1,4 @@
 baseurl: "words"
 name: Tom Pearson
+plugins:
+  - jekyll-feed
