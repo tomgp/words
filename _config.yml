@@ -1,4 +1,4 @@
-baseurl: "words"
+baseurl: http://www.toffeemilkshake.co.uk/words/
 name: Tom Pearson
 plugins:
   - jekyll-feed
