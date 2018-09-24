@@ -1,7 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style></style>
+    <style>
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  line-height: 1.3rem;
+}
+      
+a {
+  color: #ff2800;
+}
+a:visited {
+  color: #ff2800;
+}
+a:hover {
+  background-color: #ff2800;
+  color: #FFF;
+}
+    </style>
     <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }}</title>
     {% feed_meta %}
   </head>
