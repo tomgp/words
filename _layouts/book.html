@@ -2,7 +2,9 @@
 layout: default
 ---
 <article itemscope itemtype="http://schema.org/Article">
-	<h2>{{ page.title }}</h2>
+	<h2>{{ page.title }} - {{ page.author }}</h2>
+  {{ page.readingDate }} 
+  {% if page.rating %}{{ page.rating }}{% endif %}
 	<div class="body" itemprop="articleBody">
 		{{ content }}
 	</div>
