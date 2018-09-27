@@ -2,5 +2,5 @@
 title: Eligible
 author: Curtis Sittenfeld
 readingDate: 2017-03-26
-purchaseLink:
+layout: book
 ---

@@ -2,5 +2,5 @@
 title: Building Stories
 author: Chris Ware
 readingDate: 2012-10-01
-purchaseLink:
+layout: book
 ---
