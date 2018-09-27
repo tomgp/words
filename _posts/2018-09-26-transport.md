@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiddle-fiddle. 
+title: Fiddle-fiddle
 ---
 
 ### Transport
@@ -21,7 +21,7 @@ Tonight I should finish Michael Pollan's book on the recent upsurge in research 
 
 ### Archival
 
-As I write these new posts once a week (so far my schedule is tied to when [Alice publishes her Weak Notes](http://alicebartlett.co.uk)) I'll also be importing older writings from older blogs and other places where I've written stuff as part of general audit of my online presence these will appear on the [index](/words) and possibly in the RSS feed too.
+As I write these new posts once a week (so far my schedule is tied to when [Alice publishes her Weak Notes](http://alicebartlett.co.uk)) I'll also be importing stuff from older blogs and other places where I've written stuff as part of general audit of my online presence these will appear on the [index](/words) and possibly in the RSS feed too.
 
 ### Hearthstone
 
