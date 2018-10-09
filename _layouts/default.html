@@ -11,10 +11,9 @@ body {
   line-height: 1.3rem;
   color: #001ec0;
 }
-      
-h2{
-  line-height: 2rem;
-  border-bottom: 3px solid;
+
+image{
+  max-width: 600px;
 }
 
 span.date{
@@ -31,17 +30,16 @@ a:hover {
   background-color: #ff2800;
   color: #FFF;
 }
-    </style>
-    <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }}</title>
+.credit{
+  border-top: solid 1px #001ec0; 
+}
+  </style>
+  <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }}</title>
     {% feed_meta %}
   </head>
   <body>
     <a href="/">Toffeemilkshake</a> : <a href="/words">words</a>
-  <div role="main" class="content">
-      {{ content }}
-  </div>
-  <div class="credit">
-  {{ site.name }}
-  </div>
+    <div role="main" class="content"> {{ content }} </div>
+    <div class="credit"> {{ site.name }} <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time> </div>
   </body>
 </html>
