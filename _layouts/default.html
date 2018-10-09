@@ -21,13 +21,13 @@ span.date{
 }
 
 a {
-  color: #ff2800;
-}
-a:visited {
   color: #c41f00;
 }
+a:visited {
+  color: #000;
+}
 a:hover {
-  background-color: #ff2800;
+  background-color: #c41f00;
   color: #FFF;
 }
 .credit{
@@ -39,7 +39,7 @@ a:hover {
     {% feed_meta %}
   </head>
   <body>
-    <a href="/">Toffeemilkshake</a> : <a href="/words">words</a>
+    <a href="/">toffeemilkshake.co.uk</a>/<a href="/words">words</a>
     <div role="main" class="content"> {{ content }} </div>
     <div class="credit"> {{ site.name }} <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time> </div>
   </body>
