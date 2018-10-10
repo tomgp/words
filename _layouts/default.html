@@ -12,7 +12,7 @@ body {
   color: #333;
 }
 
-.content{
+.content {
   max-width: 600px;
 }
 
@@ -37,7 +37,7 @@ a:hover {
   color: #FFF;
 }
 
-.credit{
+.credit {
   border-top: solid 1px #333;
   padding-top: 16px;
 }
@@ -46,8 +46,8 @@ a:hover {
     {% feed_meta %}
   </head>
   <body>
-    <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>
-    <div role="main" class="content"> {{ content }} </div>
-    <div class="credit"> {{ site.name }}. <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time> </div>
+    <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">{{ page.url }}</a>{% endif %}
+    <div role="main" class="content">{{ content }}</div>
+    <div class="credit">{{ site.name }}. <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time></div>
   </body>
 </html>
