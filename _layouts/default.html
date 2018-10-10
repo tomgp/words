@@ -46,7 +46,7 @@ a:hover {
     {% feed_meta %}
   </head>
   <body>
-    <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">🔗</a>{% endif %}
+    <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/🔗</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
     <div class="credit">{{ site.name }}. <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time></div>
   </body>
