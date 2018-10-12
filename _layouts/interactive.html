@@ -7,4 +7,7 @@ layout: default
     <div class="interactive"></div>
 		{{ content }}
 	</div>
+  {% if page.script %}
+  <script>{{ page.script }}</script>
+  {% endif %}
 </article>
