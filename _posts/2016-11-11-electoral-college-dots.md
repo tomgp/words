@@ -2,7 +2,7 @@
 layout: image
 title: Electoral college dot map
 originalURL: http://www.toffeemilkshake.co.uk/electoral-college-clusters/
-primaryImageURL: /words/assets/2012-results-dot-map-logo.png
+primaryImageURL: /words/assets/images/2012-results-dot-map-logo.png
 ---
 
 [demo](http://www.toffeemilkshake.co.uk/electoral-college-clusters/demo.html) [source](https://github.com/tomgp/electoral-college-clusters)

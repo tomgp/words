@@ -45,6 +45,9 @@ a:hover {
   <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }}</title>
     {% feed_meta %}
   </head>
+  {% if post.script %}
+  <script>{{ post.script }}</script>
+  {% endif %}
   <body>
     <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/🔗</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
