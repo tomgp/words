@@ -2,6 +2,7 @@
 layout: interactive
 title: Line simplification revisited
 script: /words/assets/scripts/line-simplify-bundle.js
+dataSource: /words/assets/data/bonds.csv
 ---
 A few years back I knocked together a demo showing how to reduce the complexity of a line without losing information. This is useful for -- among other things -- reducing visual complexity and file size. I recently had need of the technique again so I tidied up the code and published it to [NPM](https://www.npmjs.com/package/@tomgp/line-simplification). 
 
