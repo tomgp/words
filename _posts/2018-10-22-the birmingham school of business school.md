@@ -3,11 +3,11 @@ layout: post
 title: The Birmingham School of Business School
 ---
 
-## <a href="http://timharford.com/2018/10/why-big-companies-squander-brilliant-ideas/">Why big companies squander brilliant ideas</a>
+## [Why big companies squander brilliant ideas](http://timharford.com/2018/10/why-big-companies-squander-brilliant-ideas/)
 
 I enjoyed this longish Tim Harford piece when it was published a while back in the FT and it's stuck with me since then. Now it's on his website it's available for free. I find origanisational structures pretty fascinating, the effects they have on individuals and what they can and can't do in society. I put this down to an extended tenure at the BBC (on and off from 2001 - 2010)followed/ interspersed by shorter stints within other ostensibly comparable orgs doing similar things. It's interesting to compare and contrast but really that's a subject more suited to the pub I think.
 
-Aside: <a href="https://twitter.com/TheAIConf/status/1050274822536622080">This tweet</a> and the attached photo encapsulates all the reasons why I don't go to conferences.
+Aside: [This tweet](https://twitter.com/TheAIConf/status/1050274822536622080) and the attached photo encapsulates all the reasons why I don't go to conferences.
 
 ## D&D
 
@@ -24,5 +24,5 @@ With those Marvel movies especially I always imagine the commissioning process i
 ## Archival
 
 I've added some old work to this site, you may have seen it pop up in your RSS reader.
- * <a href="http://www.toffeemilkshake.co.uk/words/2016/11/11/electoral-college-dots.html">A quick write up of the Electoral college dot map I designed for the last US election</a>
- * <a href="http://www.toffeemilkshake.co.uk/words/2018/10/12/line-simplification-revisited.html">An updated version of the line simplification module I made for D3 (as tweeted by Edward Tufte)</a>
+ * [A quick write up of the Electoral college dot map I designed for the last US election](http://www.toffeemilkshake.co.uk/words/2016/11/11/electoral-college-dots.html)
+ * [An updated version of the line simplification module I made for D3 (as tweeted by Edward Tufte)](http://www.toffeemilkshake.co.uk/words/2018/10/12/line-simplification-revisited.html)
