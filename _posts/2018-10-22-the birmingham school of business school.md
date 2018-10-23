@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Birmingham School of Business School
+title: The Birmingham School of Business School*
 ---
 
 ## [Why big companies squander brilliant ideas](http://timharford.com/2018/10/why-big-companies-squander-brilliant-ideas/)
@@ -26,3 +26,5 @@ With those Marvel movies especially I always imagine the commissioning process i
 I've added some old work to this site, you may have seen it pop up in your RSS reader.
  * [A quick write up of the Electoral college dot map I designed for the last US election](http://www.toffeemilkshake.co.uk/words/2016/11/11/electoral-college-dots.html)
  * [An updated version of the line simplification module I made for D3 (as tweeted by Edward Tufte)](http://www.toffeemilkshake.co.uk/words/2018/10/12/line-simplification-revisited.html)
+--
+*[re the title](https://m.youtube.com/watch?v=WQreH2QZ_zc)
