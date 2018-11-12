@@ -7,11 +7,13 @@ Finished Jarret Kobek's _["HOE #999"](https://bookworks.org.uk/node/154)_ book. 
 
 ---
 
-We went to Kent for the weekend to visit friends who moved to Tunbridge Wells. I don't get Kent -- a bland (late) Ballardian landscape of dual carriage ways and golf courses. When I think of British dystopias I don't think it's a coincidence that for me those which resonate most strongly (_Children Of Men_, _Ridley Walker_, _Kingdom Come_ (is Kingdom Come even dystopia anymore? It feels like the slimmest possible margin exists between our world and the reality of the novel)), are those set predominantly in the home counties -- a cultural blast zone around London.
+We went to Kent for the weekend to visit friends who moved to Tunbridge Wells. I don't get Kent -- a bland (late) Ballardian landscape of dual carriage ways and golf courses. When I think of British dystopias I don't think it's a coincidence that for me those which resonate most strongly (_Children Of Men_, _Ridley Walker_, _Kingdom Come_ * ), are those set predominantly in the home counties -- a cultural blast zone around London.
+
+*(is Kingdom Come even dystopia anymore? It feels like the slimmest possible margin exists between our world and the reality of the novel)
 
 ---
 
-Started reading _The Spire_ by William Golding, generally speaking I always seem to enjoy books about monks (_Narcissus and Goldmund_ is an all time fave). Took me a couple of tries to get going but it's very much my kind of novel; simple words put carefully together, much is unsaid, the novel suggests a vast world from a very narrow point of view.
+Started reading _The Spire_ by William Golding, generally speaking I always seem to enjoy books about monks (_Narcissus and Goldmund_ is an all time fave). Took me a couple of tries to get going but it's very much my kind of novel; simple words put carefully together, much is unsaid, the novel suggests a vast world from a very narrow point of view, a book with which the reader feels like the authors partner in creation.
 
 ---
 
