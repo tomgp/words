@@ -1,3 +1,7 @@
+---
+layout: post
+title: Mixed feelings about playing Dungeons and Dragons
+---
 
 We visited Glastonbury to get out of London for a couple of days. That bit of the west country is definitely the part of England most likely to be [the shire](https://en.wikipedia.org/wiki/Shire_(Middle-earth)) and really is in my view the apotheosis the English managed countryside -- the kind of countryside that results from thousands of years of human stewardship, essentially a massive garden. Next door to our cottage a Japanese family on holiday were in a state of perpetual delight, the countryside really put on a show for them, high contrast rain & sun -- a rainbow, glowing sandstone against a dark sky, perfect green grass with a light frost, a 2000 year old oak tree. I love seeing people experience things that I've become inured to, I feel like it lets me experience them afresh -- this is for me one of the most constant joys of having children.
 
