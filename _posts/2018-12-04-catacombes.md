@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Catacombs, Attenbourogh. (Cattenborough)
+title: Catacombs, Attenborough. (Cattenborough)
 ---
 
 (posted over a month after I wrote it)
