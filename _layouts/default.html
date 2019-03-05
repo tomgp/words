@@ -70,7 +70,18 @@ hr{
   <body>
     <a href="/">www.toffeemilkshake.co.uk</a>/<a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/{{ page.title }}</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
-    <div class="credit">{{ site.name }}. <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time></div>
+    <div class="page-navigation">
+  {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.date | date: "%d %B %Y" }}</a>
+  {% endif %}
+  {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{ page.next.date | date: "%d %B %Y" }} &raquo;</a>
+  {% endif %}
+    </div>
+    <div class="credit">
+        {{ site.name }}.
+      <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
+    </div>
     <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
   </body>
 </html>
