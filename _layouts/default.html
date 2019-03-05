@@ -70,7 +70,11 @@ hr{
   <body>
     <a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/{{ page.title }}</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
-    <div class="page-navigation">
+    
+    <div class="credit">
+        {{ site.name }}.
+      <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
+      <div class="page-navigation">
   {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.date | date: "%d %B %Y" }}</a>
   {% endif %}
@@ -79,9 +83,6 @@ hr{
       <a class="next" href="{{page.next.url}}">{{ page.next.date | date: "%d %B %Y" }} &raquo;</a>
   {% endif %}
     </div>
-    <div class="credit">
-        {{ site.name }}.
-      <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
     </div>
     <div><a href="/">home</a></div>
     <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
