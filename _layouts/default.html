@@ -78,13 +78,13 @@ hr{
   {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.date | date: "%d %B %Y" }}</a>
   {% endif %}
-  <a href="/words/">post index</a>
   {% if page.next.url %}
       <a class="next" href="{{page.next.url}}">{{ page.next.date | date: "%d %B %Y" }} &raquo;</a>
   {% endif %}
     </div>
     </div>
-    <div><a href="/">home</a></div>
+    <div> <a href="/words/">Index</a></div>
+    <div><a href="/">Home</a></div>
     <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
   </body>
 </html>
