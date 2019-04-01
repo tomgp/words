@@ -64,7 +64,7 @@ hr{
   border-bottom: 1px solid #000;
 }
   </style>
-  <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.name }}</title>
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
     {% feed_meta %}
   </head>
   <body>
@@ -75,12 +75,6 @@ hr{
         {{ site.name }}.
       <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
       <div class="page-navigation">
-  {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.date | date: "%d %B %Y" }}</a>
-  {% endif %}
-  {% if page.next.url %}
-      <a class="next" href="{{ page.next.url }}">{{ page.next.date | date: "%d %B %Y" }} &raquo;</a>
-  {% endif %}
     </div>
     </div>
     <div> <a href="/words/">Index</a></div>
