@@ -8,8 +8,16 @@ body {
   color: #0028ff;
 }
 
+blockquote{
+  transform:skew(7deg);
+}
+
 .contents{
   width: 100%;
+  transform:skew(7deg);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
 }
 
 .postlink{
@@ -51,7 +59,6 @@ a:hover{
 }
 
 .credit {
-  border-top: solid 1px #333;
   padding-top: 16px;
 }
 
