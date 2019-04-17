@@ -8,16 +8,20 @@ body {
   color: #0028ff;
 }
 
-blockquote{
-  transform:skew(7deg);
-}
-
 .contents{
   width: 100%;
-  transform:skew(7deg);
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: justify;
+}
+
+@media only screen and (min-width : 640px) {
+    .contents{
+      transform: skew(7deg);
+    }
+    blockquote{
+      transform: skew(7deg);
+    }
 }
 
 .postlink{
