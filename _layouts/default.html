@@ -8,15 +8,16 @@
   <body>
     <a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/{{ page.title }}</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
-    
-    <div class="credit">
-        {{ site.name }}.
-      <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
-      <div class="page-navigation">
-    </div>
-    </div>
-    <div> <a href="/words/">Index</a></div>
-    <div><a href="/">Home</a></div>
-    <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
+    <footer>
+      <div class="credit">
+          {{ site.name }}.
+        <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
+        <div class="page-navigation">
+      </div>
+      </div>
+      <div> <a href="/words/">Index</a></div>
+      <div><a href="/">Home</a></div>
+      <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
+    </footer>
   </body>
 </html>

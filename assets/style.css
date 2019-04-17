@@ -71,3 +71,7 @@ hr{
   border-bottom: 1px solid #0028ff;
   width: 33%
 }
+
+footer{
+  text-align: right;
+}
