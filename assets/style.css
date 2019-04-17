@@ -68,5 +68,6 @@ a:hover{
 
 hr{
   border: white;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #0028ff;
+  width: 33%
 }
