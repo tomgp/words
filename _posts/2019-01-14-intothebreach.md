@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on "Into the Breach"
+title: Into the Breach
 ---
 It's a turn based strategy game on the Nintendo Switch so that's obviously up my street, but there are a bunch of other things going on that I've not seen -- or not seen done so well -- that I want to note because I think they're interesting.
  * The maps are very short and have a puzzle like feeling, like a chess puzzle or like the kernel of an _Advance Wars_ level but without the city capturing and with a tighter set of units. Each one takes only 6 turns but every decision you make is highly consequential. Aside: Much has been made of ITB being 'perfect information' but really, that's not any more true than it is for many other turn based strategy games (ie. not really) what ITB does well is make the information very _legible_ and also the decision space is constrained enough that you can fairly easily integrate that information in your play lending a real sense of mastery when you play well.
