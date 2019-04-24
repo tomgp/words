@@ -10,14 +10,11 @@
     <div role="main" class="content">{{ content }}</div>
     <footer>
       <div class="credit">
-          {{ site.name }}.
+        <a href="/">{{ site.name }}</a>
         <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
-        <div class="page-navigation">
+        <a href="/words/">more posts</a>
+        <a href="/words/feed.xml">RSS</a>
       </div>
-      </div>
-      <div> <a href="/words/">Index</a></div>
-      <div><a href="/">Home</a></div>
-      <div class="feedlink"><a href="/words/feed.xml">RSS</a></div>
     </footer>
   </body>
 </html>
