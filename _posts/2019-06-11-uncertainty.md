@@ -6,4 +6,4 @@ As a lens through which to analyse games the ways in which they deploy uncertain
 
 ---
 
-A perfect example of how Costikyan gets things when they don't conform to his notion of what constitutes a proper game is <a href="https://web.archive.org/web/20100115094429/http://playthisthing.com/minecraft">this review of Minecraft</a> from 2010.
+A perfect example of how Costikyan doesn't get things when they don't conform to his notion of what constitutes a proper game is <a href="https://web.archive.org/web/20100115094429/http://playthisthing.com/minecraft">this review of Minecraft</a> from 2010.
