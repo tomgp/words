@@ -6,5 +6,9 @@ Anyway, Mary barton has a bit of that unevenness. Gaskell isn't really able to r
 
 I didn't get far with the Patrick Hamilton book, though it might just have been that my mood on the train back from seeing Mac DeMarco in Margate wasn't tuned correctly. I'm a huge fan of _Hangover Square_ and esp. _Slaves to Solitude_ but earlier in his career he didn't have his tendency towards florid descriptive passages under control, there's a bit of this in _20,000 Streets under the Sky_, Emma bounced off that one. Anyway, I'll probably try again after Summer.
 
-*eg. <blockquote>Chapter V. THE MILL ON FIRE &ndash; JEM WILSON TO THE RESCUE.</blockquote>
-and amazingly<blockquote>Chapter XXXII. THE TRIAL AND VERDICT &ndash; "NOT GUILTY."</blockquote>
+*eg. 
+
+ > Chapter V. THE MILL ON FIRE &ndash; JEM WILSON TO THE RESCUE.
+and amazingly
+
+ >Chapter XXXII. THE TRIAL AND VERDICT &ndash; "NOT GUILTY."
