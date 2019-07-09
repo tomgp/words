@@ -9,6 +9,7 @@ I didn't get far with the Patrick Hamilton book, though it might just have been 
 *eg. 
 
  > Chapter V. THE MILL ON FIRE &ndash; JEM WILSON TO THE RESCUE.
+ 
 and amazingly
 
  >Chapter XXXII. THE TRIAL AND VERDICT &ndash; "NOT GUILTY."
