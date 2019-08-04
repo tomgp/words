@@ -10,7 +10,7 @@ Or from 'Only Americans...'
 
 His references are specific rather than generic, he mentions Overwatch not Fortnite and the choice is meaningful. 
 
-Compare this to the following sentence for a [review of Zed in the guardian](https://www.theguardian.com/books/2019/jul/24/zed-joanna-kavenna-review) a couple of weeks back...
+Compare this to the following sentence from a [review of Zed in the guardian](https://www.theguardian.com/books/2019/jul/24/zed-joanna-kavenna-review) a couple of weeks back...
 
 > Varley’s expertise is in the "lifechain", a Beetle program of algorithms, and Mann seems to have broken their futurology.
 
