@@ -12,7 +12,7 @@ Oops, fell into writing about brexit. Sorry. I've decided to allow myself local 
 
 ---
 
-OK, so what books did I finish that made me write post. 
+OK, so what books did I finish that prompted me to post. 
 
 1 _Their Brilliant Careers_ by Ryan O'Neil, which is 16 short biograpies of Australian writers, the twist being they're all imaginary. Each piece on it's own is entertaining enough (though they lack the manic invention of something like Lint, the ne-plus-ultra of imaginary literary biogs) but the real joy is the meta narrative which is woven through the individual stories involving the relationship of the author to one of his subjects and which is only revealed right at the end of the index, the key entry from which is skilfuly signposted in the acknowledgements, which then sends you back through the book picking up clues. Smart.
 
