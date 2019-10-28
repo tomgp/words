@@ -2,11 +2,11 @@ I've gone on a bit of a halloween roller coaster over the last couple of years. 
 
 ---
 
-Finished a couple of books that I don't have anything to say about. I've made some bad choices recently -- I haven't stayed true to my own predilictions. Right now I'd prefer to read an interesting bad book than something blandly competent, October has been a month of bland competency (in terms of the books I've chosen to read, not in terms of our government natch).
+Finished a couple of books that I don't have anything to say about. I've made some bad choices recently -- I haven't stayed true to my own predilections. Right now I'd prefer to read an interesting bad book than something blandly competent, October has been a month of bland competency (in terms of the books I've chosen to read, not in terms of our government natch).
 
 ---
 
-I've had occasion to write some PHP recently. Whenever I type `<?php` I _ALLWAYS_ sing ["PHP! A PC PHYRRIC VICTORY!"](https://www.youtube.com/watch?v=FDMHvXJn0aM) to myself. 
+I've had occasion to write some PHP recently. Whenever I type `<?php` I _ALWAYS_ sing ["PHP! A PC PHYRRIC VICTORY!"](https://www.youtube.com/watch?v=FDMHvXJn0aM) to myself. 
 
 ---
 
@@ -32,4 +32,4 @@ I love this review of John Updike's early books. I've known a couple of people w
 
  > Wallace’s vivisection of Updike’s misogyny seems calm and cool and virtuous, and then you remember that to the best of anyone’s knowledge Updike never tried to push a woman out of a moving car
 
-I think this is important stuff, reminding us of the compliated relationship between creators and their creations and how we all have to work with that on an ongoing basis. How many people would DFW have had to push out of moving vehicles for me to resolve not to finish that half read short story collection on my shelf? What would Eric Gill have to have done in order for the BBC to remove his statuary from the front of Broadcasting house? To stop using his famous typeface? Michael Jackson is still played, R Kelly is "cancelled". I guess being dead eases the ethical calculus.
+I think this is important stuff, reminding us of the complicated relationship between creators and their creations and how we all have to work with that on an ongoing basis. How many people would DFW have had to push out of moving vehicles for me to resolve not to finish that half read short story collection on my shelf? What would Eric Gill have to have done in order for the BBC to remove his statuary from the front of Broadcasting house? To stop using his famous typeface? Michael Jackson is still played, R Kelly is "cancelled". I guess being dead eases the ethical calculus.
