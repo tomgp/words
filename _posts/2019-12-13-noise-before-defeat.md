@@ -2,7 +2,7 @@ It's probably a bit "[Business Secrets of the Pharoes](https://www.goodreads.com
 
 >Strategy without tactics is the slowest path to victory. Tactics without strategy is the noise before defeat.
 
-So many times I've done well on a turn by turn basis, maximising available resources and using the rules and environemt to eek out small victories only to be crushed in the long term. In games this often comes down to knowing when to cut your losses in order to focus on the bigger objective. *
+So many times I've done well on a turn by turn basis, maximising available resources and using the rules and environemt to eek out small victories only to be crushed in the long term. In games this often comes down to knowing when to cut your losses in order to focus on the bigger objective. ✰
 
 The Remain project has been ultimately counter-productive. The effective tactics hid the lack of coherent strategy or consensus about how ultimately victory might be achieved. The idea was that if the tactics were effective a space would open where politcal action might be possible. The excitement of court cases and John Bercow bellowing and so one hid the reality. Noise before defeat. Last night Jo Swinson was a totemic casualty of this approach, not knowing when to bend in her party's approach and so instead snapping (ironic given how the Lib Dems bent so willingly for the Tories during the coalition years).
 
@@ -20,7 +20,7 @@ Anyway. Let's see what happens next. I remain, in defiance of experience and com
 
 ---
 
-Into the Breach is obviously a fabulous example of this. Each step to victory is about choosing what you can afford to loose, where you need to compromise in order to stay in the fight.
+✰  Into the Breach is obviously a fabulous example of this. Each step to victory is about choosing what you can afford to loose, where you need to compromise in order to stay in the fight.
 
 Into the Breach in a game about losing repeatedly but learning from your losses and slowly turning them in to victories -- across infite timelines, in the end it's a matter of brute statistics.
 
