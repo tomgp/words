@@ -4,9 +4,9 @@ It's probably a bit "[Business Secrets of the Pharoes](https://www.goodreads.com
 
 So many times I've done well on a turn by turn basis, maximising available resources and using the rules and environemt to eek out small victories only to be crushed in the long term. In games this often comes down to knowing when to cut your losses in order to focus on the bigger objective. *
 
-The Remain project has been ultimately counter-productive. The effective tactics hid the lack of coherent strategy or consensus about how ultimately victory might be achieved. The idea was that if the tactics were effective a space would open where politcal action might be possible. The excitement of court cases and John Bercow bellowing and so one hid the reality that the only. Noise before defeat. Jo Swinson was a totemic casualty of this approach, not knowing when to bend in her party's approach and so instead snapping (ironic given how the Lib Dems bent so willingly for the Tories during the coalition years).
+The Remain project has been ultimately counter-productive. The effective tactics hid the lack of coherent strategy or consensus about how ultimately victory might be achieved. The idea was that if the tactics were effective a space would open where politcal action might be possible. The excitement of court cases and John Bercow bellowing and so one hid the reality. Noise before defeat. Last night Jo Swinson was a totemic casualty of this approach, not knowing when to bend in her party's approach and so instead snapping (ironic given how the Lib Dems bent so willingly for the Tories during the coalition years).
 
-The whole country is now going to have to struggle through another 5 years of Tory misrule as the price for this.
+The whole country is now going to have to struggle through another 5 years of Tory misrule as the price for this. Inspite of my misgivings about Corbyn and the broader Momentum project/approach, for me there seems little doubt that it was [Brexit was what won it](https://twitter.com/LaurenLeatherby/status/1205360591965216768).
 
 An unpopular opinion in North London but I feel that Helen Thompson was probably right when she <a href="https://twitter.com/HelenHet20/status/1203621884396335105">tweeted</a> that 
 
@@ -15,6 +15,8 @@ An unpopular opinion in North London but I feel that Helen Thompson was probably
 Part of that is I think accepting that wanting to leave the EU isn't in inherently racist position (though in practice...).
 
 Anyway. Let's see what happens next. I remain, in defiance of experience and common sense, an optimist.
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/playlist/england/pl.u-5V2lsWXV3a"></iframe>
 
 ---
 
