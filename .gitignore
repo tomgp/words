@@ -5,3 +5,4 @@ _site/
 _books/.DS_Store
 .DS_Store
 _posts/_drafts/
+Gemfile.lock
