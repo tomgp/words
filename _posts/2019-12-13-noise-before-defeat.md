@@ -6,13 +6,13 @@ So many times I've done well on a turn by turn basis, maximising available resou
 
 The Remain project has been ultimately counter-productive. The effective tactics hid the lack of coherent strategy or consensus about how ultimately victory might be achieved. The idea was that if the tactics were effective a space would open where politcal action might be possible. The excitement of court cases and John Bercow bellowing and so one hid the reality. Noise before defeat. Last night Jo Swinson was a totemic casualty of this approach, not knowing when to bend in her party's approach and so instead snapping (ironic given how the Lib Dems bent so willingly for the Tories during the coalition years).
 
-The whole country is now going to have to struggle through another 5 years of Tory misrule as the price for this. Inspite of my misgivings about Corbyn and the broader Momentum project/approach, for me there seems little doubt that it was [Brexit was what won it](https://twitter.com/LaurenLeatherby/status/1205360591965216768).
+The whole country is now going to have to struggle through another 5 years of Tory misrule as the price for this. Despite my misgivings about Corbyn and the broader Momentum project/approach, there seems little doubt that it was, at least partly, [Brexit was what won it](https://twitter.com/LaurenLeatherby/status/1205360591965216768).
 
 An unpopular opinion in North London but I feel that Helen Thompson was probably right when she <a href="https://twitter.com/HelenHet20/status/1203621884396335105">tweeted</a> that 
 
 >The necessary condition of holding the Conservatives to account about the future economic relationship with the EU is another party - which is not the Brexit party - that accepts the referendum result.
 
-Part of that is I think accepting that wanting to leave the EU isn't in inherently racist position (though in practice...).
+Part of that is I think accepting that wanting to leave the EU isn't an inherently racist position (though in practice...).
 
 Anyway. Let's see what happens next. I remain, in defiance of experience and common sense, an optimist.
 
