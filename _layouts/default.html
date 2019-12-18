@@ -6,7 +6,7 @@
     {% feed_meta %}
   </head>
   <body>
-    <a href="/words">words</a>{% if page.url %}<a href="/words{{ page.url }}">/{{ page.title }}</a>{% endif %}
+    <a href="/words">words</a>{% if page.url %}<a href="{{ page.url }}">/{{ page.title }}</a>{% endif %}
     <div role="main" class="content">{{ content }}</div>
     <footer>
       <div class="credit">
