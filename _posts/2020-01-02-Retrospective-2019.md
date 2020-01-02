@@ -12,7 +12,7 @@ At the start of the year I resolved to make a game of some sort and I've sort of
 
 Holiday wise, we've been to Wales (near Dolgellau) and France (near Lézignan). Our only flights have been to New York and back for my mothers birthday but I had hoped to not do any flying -- maybe next year.
 
-Work-wise it's been a bit of an odd one. Lots of small clients but some interesting work. On the down side, the disillusionment I've felt over the past few years with the direction which web development is taking though shows no sign of abating. I'd like to try to articulate this better over the next couple of months, for my own sake as much as anything.
+Work-wise it's been a bit of an odd one. Lots of small clients but some interesting work. On the down side though, the disillusionment I've felt over the past few years with the direction which web development is taking shows no sign of abating. I'd like to try to articulate this better over the next couple of months, for my own sake as much as anything.
 
 I did a bunch of child raising which I could go on about at great length but I'll spare you (and future them).
 
