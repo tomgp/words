@@ -1,4 +1,4 @@
-I've read other review of the year type things and they've noted how the year seemed to go on and on forever. For me it was the opposite. 2019 seems barely to have happened. Perhaps it was just relatively peaceful on a personal level compared to 2017 & 18 which involved changing jobs and all sorts of other stress. Or maybe it was that everything seemed to be holding its breath waiting for Brexit to happen or not.
+I've read other review of the year type things and they've noted how the year seemed to go on and on forever. For me it was the opposite. 2019 seems barely to have happened. Perhaps it was just relatively peaceful on a personal level compared to 2017 & 18 which involved changing jobs and all sorts of other stress. Or maybe it was that everything seemed to be holding its breath waiting for Brexit to happen or not (spoiler it's happening).
 
 ## Anyway, what did happen?
 
