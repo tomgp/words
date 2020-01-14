@@ -6,4 +6,4 @@ I took _Hearthstone_ off my iPad. I've played it a bit on our Windows PC but thi
 
 K is away on school journey in Wales. 
 
-The RSS feed for this site is a bit broken at the moment and I'm at a bit of a loss as to how to fix it (i.e. I can't summon the energy to try, hgace a feeling it has somehting to do with the mardown parsing or some wierd character escaping happening/ not happening). Sorry about that if you read the site that way -- I'll continue to turn the problem over in my head until a) I somehow magically know what the problem is and how to fix it or b) it fixes itself.
+The RSS feed for this site is a bit broken at the moment and I'm at a bit of a loss as to how to fix it (i.e. I can't summon the energy to try. I have a feeling it has somehting to do with the mardown parsing or some wierd character escaping happening/ not happening). Sorry about that if you read the site that way -- I'll continue to turn the problem over in my head until a) I somehow magically know what the problem is and how to fix it or b) it fixes itself.
