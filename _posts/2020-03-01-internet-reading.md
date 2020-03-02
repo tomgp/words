@@ -11,7 +11,7 @@ third, and most profound ... is the prospect that it represents a larger movemen
 
 Food for thought!
 
-[Netflix's Love Is Blind makes one wonder: are straight people doing OK?](https://www.theguardian.com/global/commentisfree/2020/feb/26/netflix-love-is-blind-experiment-straight-heterosexual-marriage)
+[Netflix's Love Is Blind makes one wonder: are straight people doing OK?](https://www.theguardian.com/global/commentisfree/2020/feb/26/netflix-love-is-blind-experiment-straight-heterosexual-marriage) by Jessa Crispin.
 
 I love Jessa Crispin. She's very Gen X in a way I will never not appreciate. I guess what I'm saying is that her opinions might often come accross as a bit old fashioned but they're always well thought out and compasionatley argued. 
 
