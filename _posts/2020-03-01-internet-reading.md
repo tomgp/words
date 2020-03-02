@@ -1,0 +1,22 @@
+[Intellectual Debt: With Great Power Comes Great Ignorance](https://medium.com/berkman-klein-center/from-technical-debt-to-intellectual-debt-in-ai-e05ac56a502c) by Jonathan Zittrain. 
+
+Interesting stuff if you're a software developer, these ideas have been floating aound for a while but seem to be coalescing recently. Paraphrasing some of the argument here: the use of black box libraries/ components etc. to expedite software product developemnt leads to a position where owners and maintainers of sorftware don't understand the mechanisms by which it works and thus can't understand or anticipate its failure modes. This _intelectual debt_ (so named as an echo of the well understood idea technical debt) is particularly accute in the area of machine learning. 
+<blockquote>
+Why is unpaid intellectual debt worrisome? There are at least three reasons, in increasing difficulty. First, when we don’t know how something works, it becomes hard to predict how well it will adjust to unusual situations.
+...
+second reason to worry as AI’s intellectual debt piles up: the coming pervasiveness of machine learning models. Taken in isolation, oracular answers can generate consistently helpful results. But these systems won’t stay in isolation.
+...
+third, and most profound ... is the prospect that it represents a larger movement from basic science towards applied technology, one that threatens to either transform academia’s investigative rigors or bypass them entirely.
+</blockquote>
+
+Food for thought!
+
+[Netflix's Love Is Blind makes one wonder: are straight people doing OK?](https://www.theguardian.com/global/commentisfree/2020/feb/26/netflix-love-is-blind-experiment-straight-heterosexual-marriage)
+
+I love Jessa Crispin. She's very Gen X in a way I will never not appreciate. I guess what I'm saying is that her opinions might often come accross as a bit old fashioned but they're always well thought out and compasionatley argued. 
+
+> The stimuli of the experiment are always the same. Each “romantic evening” includes red rose petals scattered on various flat surfaces. Each bachelor and bachelorette party is identical, with a stripper for the ladies and gambling and shots of whiskey for the men. Each wedding will be constructed from the same elements, with all of the women choosing form-fitting white frilly dresses from the same shop, the ceremonies following an established template, and each couple’s vows sounding basically like an echo of the couple that wed in the same room before them. The subjects are prevented from expressing any individual or original desire, need or impulse, deftly showing that in our heteronormative culture, acquiescence to the couple format is more important than the unique qualities of the people who make it up. Will the pressure to conform prove to be too much, forcing them to recognize their own humanity and individuality, freeing them from the heterosexual paradigm? Or will they strive to make their way through the impossible maze of dating and mating only to be rewarded with a small cube of cheese?
+
+It's wierd how the rigorous gender policing of much of reality TV (and shops, have you tried buying not gender-coded childrens clothes? get ready to pay more for the privledge) is so much more visible and explicit these days now given how much progress has been made over the last 20 years esp re accepting a broader spectrum of gender identity. Or maybe I've jst become more aware of it.
+
+As I get older it's easy to feel abit <a href="http://edge.alluremedia.com.au/m/g/2016/06/old-man-yells-at-cloud.jpg">old-man-yells-at-cloud</a> when it comes to critiquing things like reality TV and so on which I honestly just don't get (like, a bunch of "millenials" I know seem fine with this kind of thing and _Love Island_ and so on -- though I should say at this point I don't really buy into broad generational explanations for stuff but that sometimes also they're useful as proxies for cultural trends that happened at a certain time when certain age-groups of people were/ are at the pop-cult steering wheel, where is this parenthetical going? I have no idea!) and it's good to think there might be some substance to my instinctive dislike of huge swathes of contemporary visual culture or at least it can be rationalised away and I can get on with re-watching Twin Peaks and listenting to Siamese Dream.
