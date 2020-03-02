@@ -1,3 +1,6 @@
+Haven't been reading much online over the last week. <a href="https://aftertheflood.com/journal/after-the-flood-is-closed/">The studio I worked for went in to liquidation</a> and I spent some time makeing <a href="http://www.toffeemilkshake.co.uk/escape-maps/">a map editor for a boardgame</a> so I had other things on my mind. But here's a couple of things that I thought were worth remembring.
+
+
 [Intellectual Debt: With Great Power Comes Great Ignorance](https://medium.com/berkman-klein-center/from-technical-debt-to-intellectual-debt-in-ai-e05ac56a502c) by Jonathan Zittrain. 
 
 Interesting stuff if you're a software developer, these ideas have been floating aound for a while but seem to be coalescing recently. Paraphrasing some of the argument here: the use of black box libraries/ components etc. to expedite software product developemnt leads to a position where owners and maintainers of sorftware don't understand the mechanisms by which it works and thus can't understand or anticipate its failure modes. This _intelectual debt_ (so named as an echo of the well understood idea technical debt) is particularly accute in the area of machine learning. 
