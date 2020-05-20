@@ -2,7 +2,7 @@ April/ May reading. I haven't been keeping up to date with book notes so here is
 
 First: Ur detective fiction _The Moonstone_ had it's moments but none of those moments were in the first 150 pages or so which for me made the whole thing feel like a bit of a slog. Also, in the end the solution felt like a cheat. Interesting but I didn't find it that entertaining. I won't rush to read another Wilkie Collins but I wouldn't totally rule it out.
 
-After which I read _Disobedience_ by Naomi Alderman felt like a first novel (which it is!) in both negative and positive ways -- mainly positive. A lot of my enjoyment came from it's mix familiar NW London geographical setting and unfamiliar Jewish orthodox cultural setting. 
+After which I read _Disobedience_ by Naomi Alderman, felt like a first novel (which it is!) in both negative and positive ways -- mainly positive. A lot of my enjoyment came from it's mix familiar NW London geographical setting and unfamiliar Jewish orthodox cultural setting. 
 
 Then I finished B Catlings _Vorh_ trilogy, the final volume being _The Cloven_ which felt rushed and unresolved. The invention and the ingenious grotesqueries of the first novel have at this point become less interesting and the whole didn't end up feeling coherent. There's a lot of stuff to be dug into here regarding the use of a African setting and the trilogy's take on colonialism which I don't really feel qualified for, suffice it to say that I think there are some problems. Perhaps the series might have worked better as a series of loosely connected short stories/ novelas? Or maybe I'm just saying that so I can segue seamlessly to...
 
