@@ -8,7 +8,7 @@ This blog post [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/
 
 Staying with the political, Dr Kate Orkin presents _[The evidence behind putting money directly in the pockets of the poor](http://www.ox.ac.uk/news/science-blog/evidence-behind-putting-money-directly-pockets-poor#)_. I've always thought this should be a no-brainer but I guess people's need to attach moral conditions to wealth redistribution is not going anywhere in a hurry.
 
-I enjoyed this article from Harpers in 1942 in which Dorothy Thompson asks [Who goes Nazi?](https://harpers.org/archive/1941/08/who-goes-nazi/)
+I enjoyed this 1942 article from Harpers in which Dorothy Thompson asks [Who goes Nazi?](https://harpers.org/archive/1941/08/who-goes-nazi/)
 
 And last but not least [this interview with Wayne Marshal](http://wayneandwax.com/?p=9575) whose work I've followed for years and which I always find insightful and enjoyable. Here he's talking about his recent article looking at Tik Tok/ Fortnight/ Atlanta hiphop dances in the context of other dance crazes through the 20th/21st century. He attempts
 
