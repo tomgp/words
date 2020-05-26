@@ -2,7 +2,7 @@ I've been avoiding the web esp social media pretty effectively for most of lockd
 
 I thought this article [Labour and Antisemitism: a Crisis Misunderstood](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-923X.12854) was very good. I'm not going to try to summarise it here because when I did it got LONG and it got contentious.
 
-This blog post [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage) recounts a story about a US startup called Doordash. It's a great critique of the economics of VC funded startups and well worth a few minutes of your time
+This blog post [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage) recounts a story about a local pizza restaurant and their relationship with a US startup called Doordash. It's a great critique of the economics of VC funded startups and well worth a few minutes of your time
 
 > You have insanely large pools of capital creating an incredibly inefficient money-losing business model. It's used to subsidize an untenable customer expectation. You leverage a broken workforce to minimize your genuine labor expenses. The companies unload their capital cannons on customer acquisition, while this week’s Uber-Grubhub news reminds us, the only viable endgame is a promise of monopoly concentration and increased prices. But is that even viable? 
 
