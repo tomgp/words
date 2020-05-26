@@ -16,4 +16,4 @@ And last but not least [this interview with Wayne Marshal](http://wayneandwax.co
 
 Here's the PDF of the original article which he's talking about in the interview: [Social Dance in the Age of (Anti-)Social MediaFortnite, Online Video, and the Jook at a Virtual Crossroads](http://wayneandwax.com/academic/JPMS3104_01_Marshall-Fortnite-proofs.pdf)
 
-Bye.
+OK, see you soon.
