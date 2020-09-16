@@ -2,7 +2,7 @@ Oh, hello! Since we last spoke I've been on holiday to France and spent 2 weeks 
 
 So I've read a couple of books. 
 
-Neville Shute's _On the Beach_ is really great; cleanly, unfussily told in that timeless mid-late 20th century style, a time when engineers could still become great writers. It follows a group of characters in and around Melbourne dealing with their impending demise as a poisonous nuclear cloud creeps south over many months, the result of some unknown conflagration in the northern hemisphere. How people might delude themselves into leading lives of meaning in such situation is perfectly observed and made for resonant reading during [gestures at the world in general]. Tears were shed.
+Neville Shute's _On the Beach_ is really great; cleanly, unfussily told in that timeless mid-late 20th century style, a time when engineers could still become great novelists. It follows a group of characters in and around Melbourne dealing with their impending demise as a poisonous nuclear cloud creeps south over many months, the result of some unknown conflagration in the northern hemisphere. How people might delude themselves into leading lives of meaning in such situation is perfectly observed and made for resonant reading during [gestures at the world in general]. Tears were shed.
 
 For me it felt like I was fitting in a keystone in my Australian post apocalyptic fiction reading it's influence can be seen in everything from Mad Max to the children's literature of Victor Kelleher to Ridley Walker. So yes, recommended!
 
