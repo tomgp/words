@@ -1,6 +1,6 @@
 In most ways that matter, the final part of Hilary Mantel's correctly lauded Thomas Cromwell trilogy, is more of the same. Possibly too much more of the same? It's 900ish pages. The wonderfully conjured Tudor world is just as believable, strange and familiar as in _Wolf Hall_ and _Bring Up The Bodies_. The language is as poetic and the characters machinations are as twisting and vaporous. 
 
-In this one Mantel brings questions of England's relationship to Europe to the fore and there's even a nod to "cancel culture" in the closing section of the book &helip;
+In this one Mantel brings questions of England's relationship to Europe to the fore and there's even a nod to "cancel culture" in the closing section of the book ...
 <blockquote>Treason can be construed from any scrap of paper, if the will is there. A syllable will do it. The power is in the hands of the reader, not the writer.</blockquote>
 This is part of the wonder of these books for me, they speak to the contemporary without ever nodding or winking at the reader, the fourth wall is always intact. The fiction is complete, solid, and believable without ever filling in all gaps and depriving the reader the chance to use their imagination to bring things to life. 
 
