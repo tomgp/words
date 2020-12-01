@@ -1,4 +1,35 @@
 ---
 label: standard
 hide_body: false
-fields: []
+fields:
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: data-url
+  type: text
+  config:
+    required: false
+  label: data-url
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
