@@ -33,3 +33,5 @@ fields:
       file: 
       path: 
   label: type
+pages:
+- _posts/reality-and-other-stories.md
