@@ -5,7 +5,7 @@ title: Some Links!
 data-url: ''
 
 ---
-Famous web developer Jeremy Kieth has posted [a good piece on the flawed nature of behavioural advertising](https://adactio.com/journal/17658).
+Famous web developer Jeremy Keith has posted [a good piece on the flawed nature of behavioural advertising](https://adactio.com/journal/17658).
 
 When I was at Condé Nast the company was in the midst of moving all the various international magazine sites for things like GQ and Vogue and so on to a common technology stack using a uniform design language. Their top tier print magazines were still making money off lush contextual adverts. Flicking through an issue of Vogue I’m always struck by how many adverts there are and how their lavish production values make them essentially indistinguishable from much of the content — Vogue fans confirm that the ads are indeed part of the magazines attraction.
 
@@ -15,7 +15,7 @@ Conde Nast, whilst talking a big game about innovating and building on the "uniq
 
 I very much enjoyed both these polyhedra sites
 
-*  [http://dmccooey.com/polyhedra/](http://dmccooey.com/polyhedra/ "A")
+* [http://dmccooey.com/polyhedra/](http://dmccooey.com/polyhedra/ "A")
 * [https://polyhedra.tessera.li/](https://polyhedra.tessera.li/#octahedron "https://polyhedra.tessera.li/#octahedron")
 
 I've toyed with the idea of a website called the Campaign For Real Websites (Camrw as in [Camra]()). It would be a directory of sites like this. Sites that have exhaustive personally compiled information on a topic and don't require any kind of cookie dialogue box because they're not tracking you. The sites may have advertising I guess but it would be the contextual kind.
