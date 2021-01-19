@@ -10,3 +10,5 @@ data-url: ''
 Sophie Ellis Bexter on radio 4 extolling the [social cooling](https://www.socialcooling.com/) effects of social media
 
 beaker browser
+
+ Adam greenfields resilience pamphlet
