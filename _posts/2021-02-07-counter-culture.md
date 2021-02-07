@@ -26,3 +26,5 @@ Absolutely! At this point staying at home and painting model spaceships (and not
 and
 
 >Despite being informed by billions, this new technological hegemony isn’t democratic; it’s a swarm-led form of para-governance programmed to maximize engagement while obfuscating responsibility for the social and environmental damage it wreaks
+
+Love the phrase "swarm-led form of para-governance"
