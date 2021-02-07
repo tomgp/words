@@ -15,6 +15,8 @@ Any counterculture that exists is by necessity invisible to the social media fee
 
 That said, I think I'm a bit more hopeful about the possibility space here than I was a year ago. Beaker browesr in particular seems like a really well thought out and ergonomic place for experimentation around alternative networked public spaces -- it asks for a level of technical expertise similar to that required for editing a MySpace page back in the day and discoverability is terrible but I think we just have to accept that as the price to pay to avoid the killing gaze of social media once Google turns it's eye of Sauron to p2p sites indexing and caching things like Beaker's Hyperdrives and IPFS the endeavour is in trouble, that space will be subsumed int he web. Can these technologies recreate the semi-piblic spaces of dingy basement clubs and tiny zine fairs? I hope they can, becoming places wehre ideas can grow for a bit outside the burning daylight of social media.
 
+***
+
 EDIT about 15 mins after I clicked publish:
 
 I found [this article which articulates some to the stuff I was trying to get at above](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/). It even mentions GG Allin, it must be something in the water.
