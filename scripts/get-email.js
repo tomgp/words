@@ -18,11 +18,13 @@ fetch(url)
     const html = entities.decode(entry.content);
     const fileName = `${entry.published.split('T')[0]}-${slugify(entry.title)}.md`.toLocaleLowerCase(); 
     const mdWithFrontmatter = 
-`title: ${entry.title}
+`---
+title: ${entry.title}
 date: ${entry.published}
 updated: ${entry.updated}
 authorName: ${entry.author.name}
 authorEmail: ${entry.author.email}
+
 ---
 ${turndownService.turndown(html)}
 
