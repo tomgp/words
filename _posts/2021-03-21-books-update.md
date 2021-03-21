@@ -1,7 +1,7 @@
 ---
 title: Books update
 date: 2021-03-21T08:50:49Z
-updated: 2021-03-21T08:50:49Z,2021-03-21 08:50:49 UTC
+updated: 2021-03-21T22:17:55Z,2021-03-21 22:17:55 UTC
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 
@@ -16,9 +16,9 @@ authorEmail: tomp@hey.com
 
 The _Slaughterhouse 5_ comic was good, faithful with occasional sparks of originality. Ryan North is a great comics writer, reading _Adventure Time_ with J\_ is always a joy but here it feels like he's perhaps too reverent? I don't know, it probably takes about the same amount of time to read the novel as it does the adaptation and the original is much deeper and richer and stranger.  
   
-_Economic Science Fictions_ had some decent pieces but it mostly didn't click for me. A lot of it had that academic writing thing where I get to the end of an essay andit feels both like it've been at it for years and like I've just read the introduction and haven't got much out of it.  
+_Economic Science Fictions_ had some decent pieces but it mostly didn't click for me. A lot of it had that academic writing thing where I get to the end of an essay and it feels both like i've been reading it for years and like I've just read the introduction and haven't got much out of it. I think this is likely as much a fsailing on my part as on any of the academics.  
   
-_The Long Earth_ was exactly what I expected. Inventive world building but not particularly challenging. I expect I'll read the rest of the series in time but I'm not in a rush.  
+_The Long Earth_ was exactly what I expected. Inventive world building but not world changing. I expect I'll read the rest of the series in time but I'm not in a rush.  
   
 _The Owl Service_ I read to K\_. It is a wierd childrens book, all atmosphere and allusion and it expects quite a lot of a young reader in terms of an understanding of class and cross cultural dynamics (esp. a reader separated from the action by 50 odd years). Not sure I'd recomend it but it leaves an impression.  
   
