@@ -10,4 +10,4 @@ authorEmail: tomp@hey.com
   
 (I was going to say 2 then 1 but I thought that promoting 4 might make me feel younger)
 
-_This post was originally an [email](https://https://world.hey.com/tomp)_
+_This post was originally an [email](https://world.hey.com/tomp)_

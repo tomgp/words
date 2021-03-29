@@ -10,4 +10,4 @@ Apparently by using my hey.com email address and sending a message to [world@hey
   
 Interesting.
 
-_This post was originally an [email](https://https://world.hey.com/tomp)_
+_This post was originally an [email](https://world.hey.com/tomp)_
