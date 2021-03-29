@@ -9,7 +9,7 @@ const turndownService = new TurndownService()
 
 let url = 'https://world.hey.com/tomp/feed.atom';
 let outputDir = '../_posts';
-let footer = '_This post was originally an [email](https://https://world.hey.com/tomp)_';
+let footer = '_This post was originally an [email](https://world.hey.com/tomp)_';
 
 fetch(url)
   .then(response => response.text())
