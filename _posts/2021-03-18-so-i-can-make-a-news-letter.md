@@ -1,7 +1,7 @@
 ---
 title: So i can make a news letter?
 date: 2021-03-18T21:34:09Z
-updated: 2021-03-18T21:40:43Z,2021-03-18 21:40:43 UTC
+updated: 2021-03-18T21:40:43Z
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 

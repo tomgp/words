@@ -1,7 +1,7 @@
 ---
 title: Books update
 date: 2021-03-21T08:50:49Z
-updated: 2021-03-21T22:17:55Z,2021-03-21 22:17:55 UTC
+updated: 2021-03-21T22:17:55Z
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 

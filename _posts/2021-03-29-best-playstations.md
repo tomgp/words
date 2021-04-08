@@ -1,7 +1,7 @@
 ---
 title: Best PlayStations
 date: 2021-03-29T14:11:56Z
-updated: 2021-03-29T14:11:56Z,2021-03-29 14:11:56 UTC
+updated: 2021-03-29T14:11:56Z
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 
