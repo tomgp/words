@@ -1,12 +1,12 @@
 ---
 title: Exhalation
 date: 2021-04-23T19:59:41Z
-updated: 2021-04-28T09:52:19Z
+updated: 2021-04-28T13:04:42Z
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 
 ---
-*   **Exhalation** — _Ted Chiang_ (2021) 
+*   **Exhalation** — _Ted Chiang_ (2019) 
 
   
 I'd read about half the stories in _Exhalation_ before picking up the collection having seen them scattered across the internet over the last 10 years or so, that put me off for a bit but in the event I enjoyed reading it all again.  
