@@ -1,7 +1,7 @@
 ---
 title: The dread spectre of normality looms
 date: 2021-06-13T21:31:04Z
-updated: 2021-06-13T21:31:04Z
+updated: 2021-06-15T10:03:18Z
 authorName: Tom Pearson
 authorEmail: tomp@hey.com
 
@@ -12,7 +12,7 @@ Combining those two themes: I was cycling to meet some work colleagues at the pu
   
 I’m fine though, my favourite SunnO))) T shirt has a big hole in the back and both my wrists are sprained and bruised making just about everything a bit awkward but it could have been worse.  
   
-Opinion: In all the debate around the safety (or otherwise) of e-scooters no addresses the elephant in the room which is that they (and every other form of transport) would be a lot safer if there weren’t a bunch of distracted people barging around encased in thousands of kilograms of metal (cars etc.)  
+Opinion: In all the debate around the safety (or otherwise) of e-scooters no one ever seems to address the elephant in the room which is that they (and every other form of transport) would be a lot safer if there weren’t a bunch of distracted people barging around encased in thousands of kilograms of metal (cars etc.)  
   
 Also: the wrist thing has kind of put the kibosh temporarily on my re-nascent hobby of painting plastic toys, more information about which can be found on [my specialist instagram account](https://instagram.com/middleage_of_sigmar) .
 
