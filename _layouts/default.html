@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-<link rel="stylesheet" type="text/css" href="/words/assets/style.css">
+<link rel="stylesheet" type="text/css" href="https://www.toffeemilkshake.co.uk/css/home.css">
+  <style>
+  .postlink-link{
+    display: grid;
+    grid-template-columns:1fr 5fr;
+  }
+  </style>
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
     {% feed_meta %}
   </head>
   <body>
-    <a href="/words">words</a>{% if page.url %}<a href="{{ page.url }}">/{{ page.title }}</a>{% endif %}
+    <header><h2><a href="/words">words</a></h2>{% if page.url %}<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>{% endif %}</header>
     <div role="main" class="content">{{ content }}</div>
     <footer>
       <div class="credit">
