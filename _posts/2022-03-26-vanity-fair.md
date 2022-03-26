@@ -9,4 +9,6 @@ On the recomendation of [Stef](http://www.stefanieposavec.com/), at our work sum
 
 Also, I finished reading Terry Pratchett's Mort to K. Interesting to read an earlyish Discworld book, a real feeling of exploring a space that's unknown but full of promise. I feel like Mort is the point (4th in the series) where Pratchett starts to treat the Discworld books as an on-going thing, there's a bit more solididty to the world, it's becoming a bit more than just generic fantasty set dressing for some gags. Mort is one of the best ones, it moves at a fantastic pace and showcases Pratchett's skill at taking our naive intuitions about how the world works and pushing them to extremes for the sake of jokes and a gentle, never cynical, kind of satire.
 
+I've given up on "weeknotes". That format doesn't work for me. Hanging stuff onto the end of book reviews seems to work better, though it's obviously tricky when it takes you 3+ months to finish something.
+
 Also, I quit my job.
