@@ -6,6 +6,6 @@ This is part of the wonder of these books for me, they speak to the contemporary
 
 Another thing I like: The way the plots and subterfuges work in these books; they hide themselves from the reader until its too late, Cromwell makes tiny moves, apparently unrelated until the trap snaps shut and you, the reader, see how the whole thing has been inevitable for the last 100, 200 or so pages. Of course at the end of this one Cromwell is the subject of the plotting rather than the plotter.
 
-What this volume does lack is the velocity of the earlier books; this is a more reflective Cromwell, lost more often in memory and in trying to make sense of his own story, and in self congratulation; his eye is more often not on the ball. This makes the earlier sections a bit of a slog (though Mantel has divied the book up into 6 parts each of which has a definite arc so that helps).
+What this volume does lack is the velocity of the earlier books; this is a more reflective Cromwell, lost more often in memory, in self congratulation, and in trying to make sense of his own story; his eye is more often not on the ball. This makes the earlier sections a bit of a slog (though Mantel has divied the book up into 6 parts each of which has a definite arc so that helps).
 
 So anyway, do I recommend it? I mean if you've read the first two you probably already know you'll want to read this one. If not then there's no point starting with this one.
