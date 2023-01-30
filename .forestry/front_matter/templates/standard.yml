@@ -1,0 +1,43 @@
+---
+label: standard
+hide_body: false
+fields:
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: data-url
+  type: text
+  config:
+    required: false
+  label: data-url
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
+pages:
+- _posts/2020-12-02-rules-to-live-by-1.md
+- _posts/2020-12-05-advertising.md
+- _posts/2021-01-09-2020.md
+- _posts/2021-12-03-mia-a-quote-about-chronicling-nature.md
+- _posts/2022-01-02-rest.md
+- _posts/2022-01-27-middlemarch-again.md
+- _posts/autumn.md
